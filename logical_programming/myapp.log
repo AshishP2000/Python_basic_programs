@@ -1,0 +1,175 @@
+INFO:root:Started Fibonacci program
+INFO:root:Finished Fibonacci program
+INFO:root:Started perfect_number program
+INFO:root:Finished perfect_number program
+INFO:root:Started Prime Number
+INFO:root:Finished Prime Number
+INFO:root:Started Reverse Number
+INFO:root:Finished Reverse Number
+INFO:root:Started Flip coin: 
+INFO:root:Finished Flip coin
+INFO:root:Started Flip coin: 
+INFO:root:Finished Flip coin
+INFO:root:Started Power of 2
+INFO:root:Finished power of 2
+INFO:root:Started Harmonic Number
+INFO:root:Finished Harmonic Number
+INFO:root:Started Prime Factorization
+INFO:root:Finished Prime Factorization
+INFO:root:Started quotient_reminder
+INFO:root:Finished quotient_reminder
+INFO:root:Started swap_2_numbers
+INFO:root:Finished swap_2_numbers
+INFO:root:Started even_odd
+INFO:root:Finished even_odd
+INFO:root:Started vowel_consonant
+INFO:root:Finished vowel_consonant
+INFO:root:Started largest_among_three
+INFO:root:Finished largest_among_three
+INFO:root:Started Reverse Number: 
+INFO:root:Finished Reverse Number
+ERROR:root:<class 'ArithmeticError'>
+INFO:root:Started Reverse Number: 
+INFO:root:Finished Reverse Number
+ERROR:root:<class 'ArithmeticError'>
+INFO:root:Started Reverse Number: 
+INFO:root:Finished Reverse Number
+INFO:root:Started Reverse Number: 
+INFO:root:Finished Reverse Number
+INFO:root:Started Reverse Number: 
+INFO:root:Finished Reverse Number
+INFO:root:Started Reverse Number: 
+INFO:root:Finished Reverse Number
+ERROR:root:<class 'ZeroDivisionError'>
+INFO:root:Started prime_anagram_palindrome
+INFO:root:Finished prime_anagram_palindrome
+INFO:root:Started prime_anagram_palindrome
+INFO:root:Finished prime_anagram_palindrome
+INFO:root:Started prime_anagram_palindrome
+INFO:root:Finished prime_anagram_palindrome
+INFO:root:Started prime_anagram_palindrome
+INFO:root:Finished prime_anagram_palindrome
+INFO:root:Started prime_anagram_palindrome
+INFO:root:Finished prime_anagram_palindrome
+INFO:root:Started binary_search
+INFO:root:Finished prime_anagram_palindrome
+INFO:root:Started insertion sort
+INFO:root:Finished insertion sort
+INFO:root:Started merge sort
+INFO:root:Finished merge sort
+INFO:root:Started Reverse Number: 
+INFO:root:Finished Reverse Number
+INFO:root:Started Reverse Number: 
+ERROR:root:<class 'ZeroDivisionError'>
+INFO:root:Started Reverse Number: 
+INFO:root:Finished Reverse Number
+INFO:root:Started bubble sort
+INFO:root:Finished bubble sort
+INFO:root:Started Fibonacci program
+INFO:root:Finished Fibonacci program
+INFO:root:Finished Fibonacci program
+INFO:root:Finished Fibonacci program
+INFO:root:Finished Fibonacci program
+INFO:root:Finished Fibonacci program
+INFO:root:Finished Fibonacci program
+INFO:root:Finished Fibonacci program
+INFO:root:Finished Fibonacci program
+INFO:root:Finished Fibonacci program
+INFO:root:Finished Fibonacci program
+INFO:root:Finished Fibonacci program
+INFO:root:Finished Fibonacci program
+INFO:root:Finished Fibonacci program
+INFO:root:Finished Fibonacci program
+INFO:root:Finished Fibonacci program
+INFO:root:Finished Fibonacci program
+INFO:root:Finished Fibonacci program
+INFO:root:Finished Fibonacci program
+INFO:root:Finished Fibonacci program
+INFO:root:Finished Fibonacci program
+INFO:root:Finished Fibonacci program
+INFO:root:Finished Fibonacci program
+INFO:root:Finished Fibonacci program
+INFO:root:Finished Fibonacci program
+INFO:root:Finished Fibonacci program
+INFO:root:Finished Fibonacci program
+INFO:root:Finished Fibonacci program
+INFO:root:Finished Fibonacci program
+INFO:root:Finished Fibonacci program
+INFO:root:Finished Fibonacci program
+INFO:root:Finished Fibonacci program
+INFO:root:Finished Fibonacci program
+INFO:root:Finished Fibonacci program
+INFO:root:Finished Fibonacci program
+INFO:root:Finished Fibonacci program
+INFO:root:Finished Fibonacci program
+INFO:root:Finished Fibonacci program
+INFO:root:Finished Fibonacci program
+INFO:root:Finished Fibonacci program
+INFO:root:Finished Fibonacci program
+INFO:root:Finished Fibonacci program
+INFO:root:Finished Fibonacci program
+INFO:root:Finished Fibonacci program
+INFO:root:Finished Fibonacci program
+INFO:root:Finished Fibonacci program
+INFO:root:Finished Fibonacci program
+INFO:root:Finished Fibonacci program
+INFO:root:Finished Fibonacci program
+INFO:root:Finished Fibonacci program
+INFO:root:Started Flip coin: 
+INFO:root:Finished Flip coin
+INFO:root:Started Harmonic Number
+INFO:root:Finished Harmonic Number
+INFO:root:Started insertion sort
+INFO:root:Finished insertion sort
+INFO:root:Started largest_among_three
+INFO:root:Finished largest_among_three
+INFO:root:Started largest_among_three
+INFO:root:Finished largest_among_three
+INFO:root:Started largest_among_three
+INFO:root:Finished largest_among_three
+INFO:root:Started merge sort
+INFO:root:Finished merge sort
+INFO:root:Started merge sort
+INFO:root:Finished merge sort
+INFO:root:Started merge sort
+INFO:root:Finished merge sort
+INFO:root:Started merge sort
+INFO:root:Finished merge sort
+INFO:root:Started merge sort
+INFO:root:Finished merge sort
+INFO:root:Started merge sort
+INFO:root:Finished merge sort
+INFO:root:Started merge sort
+INFO:root:Finished merge sort
+INFO:root:Started merge sort
+INFO:root:Finished merge sort
+INFO:root:Started merge sort
+INFO:root:Finished merge sort
+INFO:root:Started merge sort
+INFO:root:Finished merge sort
+INFO:root:Started merge sort
+INFO:root:Finished merge sort
+INFO:root:Started merge sort
+INFO:root:Finished merge sort
+INFO:root:Started perfect_number program
+INFO:root:Finished perfect_number program
+INFO:root:Started Power of 2
+INFO:root:Finished power of 2
+INFO:root:Started prime_anagram_palindrome
+INFO:root:Finished prime_anagram_palindrome
+INFO:root:Started Prime Factorization
+INFO:root:Finished Prime Factorization
+INFO:root:Started Prime Number
+INFO:root:Finished Prime Number
+INFO:root:Started Prime numbers in range
+INFO:root:Finished Prime numbers in range
+INFO:root:Started quotient_reminder
+INFO:root:Finished quotient_reminder
+INFO:root:Started quotient_reminder
+INFO:root:Finished quotient_reminder
+INFO:root:Started swap_2_numbers
+INFO:root:Finished swap_2_numbers
+INFO:root:Started vowel_consonant
+INFO:root:Finished vowel_consonant
+INFO:root:Started vowel_consonant
+INFO:root:Finished vowel_consonant
